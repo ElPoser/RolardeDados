@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Rolar de Dados</string>
+    <string name="Rolar">Rolar Dado</string>
+    <string name="TextViewResult">Resultado</string>
+</resources>
